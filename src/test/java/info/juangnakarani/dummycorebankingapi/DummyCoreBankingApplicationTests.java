@@ -1,10 +1,10 @@
-package info.juangnakarani.dummycorebanking;
+package info.juangnakarani.dummycorebankingapi;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class DummyCoreBankingApplicationTests {
+class DummyCoreBankingApiApplicationTests {
 
 	@Test
 	void contextLoads() {

@@ -1,4 +1,4 @@
-package info.juangnakarani.dummycorebanking.controller;
+package info.juangnakarani.dummycorebankingapi.controller;
 
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.RestController;

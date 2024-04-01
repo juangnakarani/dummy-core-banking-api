@@ -1,13 +1,13 @@
-package info.juangnakarani.dummycorebanking;
+package info.juangnakarani.dummycorebankingapi;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class DummyCoreBankingApplication {
+public class DummyCoreBankingApiApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(DummyCoreBankingApplication.class, args);
+		SpringApplication.run(DummyCoreBankingApiApplication.class, args);
 	}
 
 }
